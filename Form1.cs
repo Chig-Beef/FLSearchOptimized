@@ -55,7 +55,7 @@ namespace Search_Algorithm
             }
 
             // Choose the correct array
-            if (sQuery.Substring(0, sQuery.Length - 1) == lastResult)
+            if (sQuery.Substring(0, sQuery.Length - 1) == lastResult && lastResult != "")
             {
                 if (cacheResults.Length > 0)
                 {
