@@ -1,0 +1,41 @@
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.AssemblyReference.cache
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search_Algorithm.Form1.resources
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.GenerateResource.cache
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfoInputs.cache
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfo.cs
+C:\Users\class\source\repos\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.exe
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.deps.json
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.runtimeconfig.json
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.dll
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.AssemblyReference.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search_Algorithm.Form1.resources
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.GenerateResource.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfoInputs.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfo.cs
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.dll
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\refint\Search Algorithm.dll
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.pdb
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.genruntimeconfig.cache
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\ref\Search Algorithm.dll
+C:\Users\class\OneDrive\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.pdb
+C:\Users\class\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.exe
+C:\Users\class\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.deps.json
+C:\Users\class\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.runtimeconfig.json
+C:\Users\class\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.dll
+C:\Users\class\Desktop\Code\C#\Search Algorithm\bin\Debug\net6.0-windows\Search Algorithm.pdb
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.AssemblyReference.cache
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search_Algorithm.Form1.resources
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.GenerateResource.cache
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfoInputs.cache
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.AssemblyInfo.cs
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.dll
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\refint\Search Algorithm.dll
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.pdb
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\Search Algorithm.genruntimeconfig.cache
+C:\Users\class\Desktop\Code\C#\Search Algorithm\obj\Debug\net6.0-windows\ref\Search Algorithm.dll
